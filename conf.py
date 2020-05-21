@@ -1,1 +1,2 @@
 TOKEN = '993882767:AAF7RN9JJYWKKO5fktMbqeukDvdMhY9rZbA'
+admin_chat_id = '758000734'
